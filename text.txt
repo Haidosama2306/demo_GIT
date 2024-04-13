@@ -1,1 +1,2 @@
-xu ly conflict 1 o day
+Day la file text.txt
+Thuoc main va demo_1
