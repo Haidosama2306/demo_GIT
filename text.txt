@@ -1,1 +1,2 @@
-xu ly xong conflict 1 o day roi
+Day la file text.txt
+Thuoc demo_2
